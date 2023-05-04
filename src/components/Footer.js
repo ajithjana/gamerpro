@@ -14,8 +14,7 @@ function Footer() {
           <FacebookIcon />
           <PinterestIcon />
       </div>
-          <p>&copy; 2022 Indianfoood.com</p>
-    </div>
+             </div>
   )
 }
 

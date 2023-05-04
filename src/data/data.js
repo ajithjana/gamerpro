@@ -1,22 +1,15 @@
-import Chole from "../assets/chhola.jpg";
-import Dosa from "../assets/dosa.jpg";
-import Paneer from "../assets/paneer.jpg";
-import Idli from "../assets/idli.jpg";
-import Gujrati from "../assets/gujrati.jpeg";
-import Rajasthani from "../assets/rajasthani.jpg";
+
+import game1 from "../assets/surveyimg.jpg"
+
 
 export const Data = [
   {
-    name: "Chole Bhature",
-    image: Chole,
-    price: 250,
+    name: "Freight Survey",
+    image: game1,
+
    
   },
-  {
-    name: "Masala Dosa",
-    image: Dosa,
-    price: 280,
-  },
+  
   
   
   
